@@ -23,12 +23,6 @@ la IA no genero una sola linea de código.
 
 # Ejecución
 
-## Backend
-```bash
-cd backend
-./mvnw spring-boot:run
-```
-
 ## Frontend
 ```bash
 cd frontend
