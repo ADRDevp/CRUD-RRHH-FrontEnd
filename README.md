@@ -17,6 +17,7 @@ la IA no genero una sola linea de código.
 # Caracteristicas
 
 - CRUD de empleados
+- Agregar Empleados
 - Listado de empleados
 - Edición de empleados
 - Eliminación de empleados
